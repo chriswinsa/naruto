@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to naruto users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐒𝐚𝐫𝐚𝐭𝐡𝐢](https://t.me/sarathi_admin) || [𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦](https://www.instagram.com/sarathi_editzz/)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/ss_linkz)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [{A}{p}{p}{u}®{offline}®](https://t.me/filesharingnewbot) ||                                                                                                                                                                                     
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [NRM 𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬](https://t.me/Malayalmmovie45)
